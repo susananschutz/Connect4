@@ -21,11 +21,11 @@ body {
 }
 
 .player1 {
-  color: red;
+  background-color: red;
 }
 
 .player2 {
-  color: blue;
+  background-color: blue;
 }
 /* TODO: make pieces red/blue,  depending on player 1/2 piece */
 /* is it with a classlist?
